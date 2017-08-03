@@ -1,0 +1,10 @@
+@import 'theme/global.css';
+
+.component {
+  background-color: rgb(39, 40, 34);
+  color: #0ff;
+  cursor: grab;
+  flex: 1;
+  height: 600px;
+  width: 800px;
+}
